@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(/views/assets/img/Fondito.jpg);
+    background-repeat: fixed;
+    background-size: 100vw;
+    background-position: center;
+    background-position: cover;
+    background-repeat: no-repeat;
+}
+.fo{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 9em;
+}
+div{
+    display: inline;
+    background-color: rgba(163, 84, 173, 0.301);
+    padding: 3em;
+    border-radius:3em; 
+    margin-right: 1em;
+}
+input{  
+    width: 16em;
+    height: 1.5em;
+    border-radius: 3em;
+    margin-top: 1em
+}
+.boton{
+    width: 15em;
+    height: 1.5em;
+    border-radius: 5em;
+}
+p{
+    text-align: center;
+    color: aliceblue;
+    font-size: 2em;
+}
+i{
+    text-align: center;
+    color: aliceblue;
+    font-size: 2em;
+}
+
+img{
+    justify-content: center;
+    position: relative;
+}
